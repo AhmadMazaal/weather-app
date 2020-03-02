@@ -1,4 +1,4 @@
-console.log("Client-side Javascript");
+
 
 
 // fetch("http://puzzle.mead.io/puzzle").then((res)=>{
